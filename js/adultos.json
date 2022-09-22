@@ -1,0 +1,48 @@
+{"comunion":[
+    {"name": "adultos",
+     "img": "img/adultos/adulto1.jpg"
+    },
+    {"name": "adultos",
+     "img": "img/adultos/adulto2.jpg"
+    },
+    {"name": "adultos", 
+    "img": "img/adultos/adulto3.jpg"
+    },
+    {"name": "adultos", 
+    "img": "img/adultos/adulto4.jpg"
+    },
+    {"name": "adultos",
+     "img": "img/adultos/adulto5.jpg"
+    },
+    {"name": "adultos",
+     "img": "img/adultos/adulto6.jpg"
+    },
+    {"name": "adultos",
+     "img": "img/adultos/adulto7.jpg"
+    },
+    {"name": "adultos",
+     "img": "img/adultos/adulto8.jpg"
+    },
+    {"name": "adultos",
+     "img": "img/adultos/adulto9.jpg"
+    },
+    {"name": "adultos",
+    "img": "img/adultos/adulto10.jpg"
+   },
+   {"name": "adultos",
+     "img": "img/adultos/adulto11.jpg"
+    },
+    {"name": "adultos",
+     "img": "img/adultos/adulto12.jpg"
+    },
+    {"name": "adultos",
+     "img": "img/adultos/adulto13.jpg"
+    },
+    {"name": "adultos",
+     "img": "img/adultos/adulto14.jpg"
+    },
+    {"name": "adultos",
+     "img": "img/adultos/adulto15.jpg"
+    }
+]
+}

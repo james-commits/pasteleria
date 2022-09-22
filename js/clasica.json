@@ -1,0 +1,88 @@
+{
+    "clasica": [
+        {      
+            "id":1 ,
+            "Name": "Choco vainilla",
+            "text": "Dos capas de queque de vainilla y dos capas de queque de chocolate intercaladas con caramelo convierten a este queque en un pastel chocolatoso pero no tanto para lo que desean pecar menos",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/clasica/Choco-vainilla-1.png"
+        },
+        {   
+            "id":2 ,
+            "Name": "Melocotón y Fresa",
+            "text": "Es queque y a su vez tan suave que se puede servir como postre, su pasta veteada de vainilla con fresa, humedecida y rellena de una capa de mermelada de fresa y una capa de melocotón hacen de este, un pastel perfecto para las celebraciones.",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/clasica/melocotonFresa.png"
+        },
+        {   
+            "id":3 ,
+            "Name": "Tetra Sabor",
+            "text": "La receta tradicional del pastelero, con trazos de blueberry, fresa, naranja, chocolate y vainilla relleno con dulce de leche, hacen de este pastel una sorpresa en cada bocado.",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/clasica/Tetra-Sabor.jpg"
+        },
+        {   
+            "id":4 ,
+            "Name": "Caramelo Almendra con Coco",
+            "text": "Tradicional queque de vainilla humedecido o no a tu gusto, relleno de semillas y nueces mixtas, decorado con frutas o con una imagen si es tu preferencia, ya que es uno de los rellenos ideales para los pasteles recubiertos en pasta australiana.",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/clasica/Caramelo-Nuez1.jpg"
+        },
+        {   
+            "id":5 ,
+            "Name": "Choco Fresa",
+            "text": "Un queque suave y chocolatoso veteado con trazos de fresa relleno de mi preparación artesanal: ganadge con fresa, decorado tradicionalmente con chocolate y fresas, pero igualmente puede decorase con flores o su imagen preferida..",
+            "cantidad": "DDe 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/clasica/chocoFresa.jpg"
+        },
+        {   
+            "id":6 ,
+            "Name": "Dulce de Leche Tradicional",
+            "text": "El tradicional queque de vainilla con dos deliciosos cortes rellenos de dulce de leche, lo puedes pedir húmedo o seco lo que desees. Puedes variar la pasta también, que sea fresa, naranja, blueberry, piña, limón, chocolate o la combinación veteada de tu preferencia.",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/clasica/dulceLecheTra.jpg"
+        },
+        {   
+            "id":7 ,
+            "Name": "Manzana Caramelo",
+            "text": "Todo el sabor de la manzana con un toque leve de canela, la pasta es de vainilla como también si lo desea la pasta puede ser de fresa, naranja, blueberry, piña, limón, chocolate o la combinación veteada de su preferencia. Vos me indicas.",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/clasica/manzaCara.jpg"
+        },
+        {   
+            "id":8 ,
+            "Name": "Choco Menta",
+            "text": "Refrescante queque de chocolate con grandes trazos verdes de menta, relleno de crema de menta, atrévete y pídelo con una pizca de licor de menta o quiz galleta oreo o ganadge.",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/clasica/Menta.jpg"
+        },
+        {   
+            "id":9 ,
+            "Name": "Naranja Piña",
+            "text": "Elaborado de pastas de naranja y piña veteadas, entre sus 2 cortes dentro lleva caramelo de dulce de leche.",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/clasica/naranjaPina.jpg"
+        },
+        {   
+            "id":10 ,
+            "Name": "Maracuyá",
+            "text": "Dos capitas interiores mas la capa superior de maracuyá en la pasta de vainilla. ¡Una delicia liviana al paladar!",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/clasica/Maracuya.jpg"
+        },
+        {   
+            "id":11 ,
+            "Name": "Butter Cream",
+            "text": "Crema de mantequilla artesanal con un leve sabor a naranja y un toque de café es tanto el relleno como la cobertura de este pastel. Combina súper bien con el cafecito de la tarde.",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/clasica/butter-cream.jpg"
+        },
+        {   
+            "id":12 ,
+            "Name": "Limón",
+            "text": "No es acido, es dulce con un relleno refrescante de crema de limón combina muy bien con la pasta de vainilla tradicional o más cítrico de naranja... ¡es a tu gusto!",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/clasica/limon.jpg"
+        }
+    ]
+}
