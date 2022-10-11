@@ -68,22 +68,21 @@
         // Cogemos los valores pasados por get
         var valores=getGET();
 
-		var nombre = valores['id'];
-       /* console.log(nombre) */
-    }
+		var nombre = valores['id'] -1;
+       console.log(nombre)
 
-fetch ("js/clasica.json")
+	   fetch ("js/clasica.json")
 .then(response => {
     return response.json();
     }
 )
-console.log(nombre)
+
 .then(jsondata => {
     myData = jsondata;
     console.log(myData.clasica[nombre].Name);
     html = "";
-    for (let i = 0; i < myData.clasica.length; i++) {
-        html += `<div class="col-lg-4 col-md-4 col-6">
+    
+        html += /* `<div class="col-lg-4 col-md-4 col-6">
                   <div class="cake_feature_item">
                   <div class="cake_img">
                   <img src="${myData.clasica[i].img}" alt="" width="270" height="226">
@@ -94,13 +93,36 @@ console.log(nombre)
                   <a class="pest_btn" href="product-details.html?id=${myData.clasica[i].id}">Mas detalles</a>
                   </div>
                          </div>
-                       </div>`;
-    }
+                       </div>`; */
+
+					   `
+					   <div class="col-lg-6">
+        				<div class="product_img"><img class="img-fluid" src="${myData.clasica[nombre].img}" alt=""></div>
+        			</div>
+        			<div class="col-lg-6">
+        				<div class="product_details_text">
+        					<h4>${myData.clasica[nombre].Name}</h4>
+        					<p>${myData.clasica[nombre].text}</p>
+        					<!-- <h5>Price :<span>$24.5</span></h5> -->
+        					<div class="quantity_box">
+        						<!-- <label for="quantity">Quantity :</label>
+        						<input type="text" placeholder="1" id="quantity"> -->
+        					</div>
+        					<a class="pink_more" href="https://wa.me/message/7TDHNAMCGVOKN1">Consultar</a>
+        				</div>
+        			</div>
+					   `;
+
+					   
     document.getElementById("clasica").innerHTML = html;
 	
 }
 )
 .catch(error => console.log(error));
+
+    }
+
+
 		</script>
         
         <!--================Main Header Area =================-->
@@ -196,7 +218,7 @@ console.log(nombre)
         <!--================Product Details Area =================-->
         <section class="product_details_area p_100">
         	<div class="container">
-        		<div class="row product_d_price">
+        		<div id="clasica" class="row product_d_price">
         			<div class="col-lg-6">
         				<div class="product_img"><img class="img-fluid" src="img/clasica/Choco-vainilla-1.png" alt=""></div>
         			</div>
@@ -213,28 +235,7 @@ console.log(nombre)
         				</div>
         			</div>
         		</div>
-        		<div class="product_tab_area">
-					<nav>
-						<div class="nav nav-tabs" id="nav-tab" role="tablist">
-							<a class="nav-item nav-link active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true">Descripcion</a>
-							<!-- <a class="nav-item nav-link" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-profile" aria-selected="false">Specification</a>
-							<a class="nav-item nav-link" id="nav-contact-tab" data-toggle="tab" href="#nav-contact" role="tab" aria-controls="nav-contact" aria-selected="false">Review (0)</a> -->
-						</div>
-					</nav>
-					<div class="tab-content" id="nav-tabContent">
-						<div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
-							<p>Es queque y a su vez tan suave que se puede servir como postre, su pasta veteada de vainilla con fresa, humedecida y rellena de una capa de mermelada de fresa y una capa de melocotón hacen de este, un pastel perfecto para las celebraciones.</p>
-						</div>
-						<div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-							<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
-						</div>
-						<div class="tab-pane fade" id="nav-contact" role="tabpanel" aria-labelledby="nav-contact-tab">
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-							<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
-						</div>
-					</div>
-        		</div>
+        		
         	</div>
         </section>
         <!--================End Product Details Area =================-->
