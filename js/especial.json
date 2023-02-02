@@ -1,0 +1,32 @@
+{
+    "clasica": [
+        {      
+            "id":1 ,
+            "Name": "Cero azúcar",
+            "text": "Especial para personas diabéticas este delicioso pastel de vainilla relleno de mermelada de guayaba y mora, está decorado con frutas naturales perfecto para cualquier ocasión.",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/especial/CeroAzucar.jpg"
+        },
+        {   
+            "id":2 ,
+            "Name": "Gluten Free",
+            "text": "Disfruta en familia y que todos coman pastel, nuestra receta gluten free viene a revolucionar su cumpleaños, puedes ordenarlo con el relleno que prefieras. Lleve el suyo con una hermosa decoración en frutas, con imagen comestible o en cobertura australiana.",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/especial/GluttenFree.jpg"
+        },
+        {   
+            "id":3 ,
+            "Name": "Sin Lactosa",
+            "text": "Que la intolerancia a la lactosa no sea un inconveniente para celebrar con un delicioso pastel. Consulta por los rellenos disponibles, este pastel puede llevar decoración en frutas o con imagen comestible.",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/especial/SinLactosa.jpg"
+        },
+        {   
+            "id":4 ,
+            "Name": "Sin huevo",
+            "text": "Si eres alérgico al huevo ordene ya su pastel con nuestra mezcla sin huevo. Lleve el suyo con una hermosa decoración en frutas, con imagen comestible.",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/especial/SinHuevo.jpg"
+        }
+    ]
+}

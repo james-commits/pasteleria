@@ -1,0 +1,74 @@
+{
+    "clasica": [
+        {      
+            "id":1 ,
+            "Name": "Cheese cake de naranja",
+            "text": "Creación super deliciosa del cheese cake con naranja, hacen de este un un perfecto regalo, se puede decorar con chocolates o frutas.",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/cheese/naranja.jpg"
+        },
+        {   
+            "id":2 ,
+            "Name": "Cheese cake de fresa",
+            "text": "Creación súper deliciosa con la impecable combinación del cheese cake de fresa en su sabor y más fresas frescas en su decoración, hacen de este una combinación perfecta entre lo dulce y lo cítrico.",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/cheese/fresa.jpg"
+        },
+        {   
+            "id":3 ,
+            "Name": "Cheese cake de baileys",
+            "text": "Combinación fabulosa entre nuestro cheese cake artesanal y el licor de baileys, hacen de esta la opción favorita porque llevan la fiesta a su celebración.",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/cheese/bayles.jpg"
+        },
+        {   
+            "id":4 ,
+            "Name": "Cheese cake de blueberry",
+            "text": "Cheese cake artesanal con Blueberry, hacen de este el sabor más placentero que puedas probar.",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/cheese/blueberry.jpg"
+        },
+        {   
+            "id":5 ,
+            "Name": "Trilogía cheese cake",
+            "text": "Creación super deliciosa con la impecable combinación del cheese cake artesanal y puedes escoger tres de nuestros sabores y combinarlos, aquí es donde te das el gusto de probar los que más te gustan cuando no te decides cuál llevar. (Para 15 personas en adelante).",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/cheese/trilogia.jpg"
+        },
+        {   
+            "id":6 ,
+            "Name": "Cheese cake oreo",
+            "text": "Creación super deliciosa con la impecable combinación del cheese cake artesanal con galletas Oreo insertadas hacen de este un pecado para los cookie monsters de su familia.",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/cheese/oreo.jpg"
+        },
+        {   
+            "id":7 ,
+            "Name": "Salta montes de menta",
+            "text": "Refréscate combinación del cheese cake artesanal con menta, lo más gustado entre lo refrescante y dulce.",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/cheese/menta.jpg"
+        },
+        {   
+            "id":8 ,
+            "Name": "Cheese cake de chocolate",
+            "text": "Creación super deliciosa del Chef Richard con la impecable combinación del cheese cake artesanal con chocolate hacen de este una tentación pecaminosa para los amantes del chocolate.",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/cheese/chocolate.jpg"
+        },
+        {   
+            "id":9 ,
+            "Name": "Cheese cake de caramelo",
+            "text": "Dulce creación, super deliciosa con la impecable combinación de mi cheese cake con caramelo hacen de este una la mejor opción para los fans del dulce.",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/cheese/caramelo.jpg"
+        },
+        {   
+            "id":10 ,
+            "Name": "Cheese cake con pie de limón",
+            "text": "¿Has pensado en un matrimonio? pues aquí el Chef Richard caso el Pie de Limón con el cheese cake, abajo pie de limón y arriba cheese cake, un matrimonio hecho en el cielo.",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/cheese/pielimon.jpg"
+        }
+    ]
+}
