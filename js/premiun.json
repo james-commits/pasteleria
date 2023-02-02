@@ -1,0 +1,88 @@
+{
+    "clasica": [
+        {      
+            "id":1 ,
+            "Name": "Cuatro Estaciones",
+            "text": "Deliciosa combinación que divide tu pastel en 4 secciones, una de fruta mixta con pasta de blueberry y relleno de mermeladas mixtas de fresa, frambuesa, mora y cereza, una segunda sección de chocolate con relleno de caramelo, otra sección donde la pasta es veteada de melocotón con fresa y relleno de una capa de melocotón y otra de fresa, por último, una sección con pasta veteada de naranja/piña relleno de dulce de leche.",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/premium/4estaciones.png"
+        },
+        {   
+            "id":2 ,
+            "Name": "Zanahoria",
+            "text": "El tradicional queque de zanahoria relleno tradicionalmente con cream cheese icing perfecto para esas tardes de café.",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/premium/zanahoria.png"
+        },
+        {   
+            "id":3 ,
+            "Name": "Fruta Mixta",
+            "text": "Las 4 mermeladas mixtas de fresa, frambuesa, cereza y mora rellenan este semi húmedo pastel de blueberry. Haciendo de este pastel un gusto para todas las personas, se puede decorar con montones de frutas en la superficie o con la imagen de su preferencia.",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/premium/FrutaMixta.png"
+        },
+        {   
+            "id":4 ,
+            "Name": "Delirio de Caramelo",
+            "text": "Combinación de 3 capas de pastel: naranja, vainilla y chocolate, relleno con la receta del caramelo de dulce de leche del pastelero entre cada una de sus capas, hacen de este pastel uno perfecto para quienes aman probar nuevas combinaciones.",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/premium/DeliriodeCaramelo.png"
+        },
+        {   
+            "id":5 ,
+            "Name": "Choco Fresa",
+            "text": "Un queque suave y chocolatoso veteado con trazos de fresa relleno de mi preparación artesanal: ganadge con fresa, decorado tradicionalmente con chocolate y fresas, pero igualmente puede decorase con flores o su imagen preferida..",
+            "cantidad": "DDe 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/clasica/chocoFresa.jpg"
+        },
+        {   
+            "id":6 ,
+            "Name": "Choco Caramelo",
+            "text": "Pasta suave de chocolate relleno con dos capas de dulce de leche y recubierto de lustre chocolatoso del Pastelero. Un tradicional para los amantes del chocolate.",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/premium/Chococaramelo.png"
+        },
+        {   
+            "id":7 ,
+            "Name": "Red Velvet con zanahoria",
+            "text": "'Red Velvet' en inglés o 'Terciopelo Rojo en español', es el mismo pastel suave con su típico color rojizo tradicionalmente relleno con cream cheese icing. Peeeeroooo……. lo puedes rellenar con frutas, con chocolate con nueces o dime tu combinación en dos cortes.",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/premium/redzanahoria.jpg"
+        },
+        {   
+            "id":8 ,
+            "Name": "Arco iris",
+            "text": "Colores, colores y más colores, este es un pastel con 6 capas de pastel, cada una de un color diferente y relleno con una capa de cremita de vainilla perfecto para tus unicornios y queques altos.",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/premium/Arcoiris.jpg"
+        },
+        {   
+            "id":9 ,
+            "Name": "Caramelo Capuccino",
+            "text": "Una creación muy similar al queque de Kahlúa sin el licor, con un relleno dulce sabor a caramelo combinado con un poco de café harán de este postre uno de tus favoritos.",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/premium/caramelocapuccino.jpg"
+        },
+        {   
+            "id":10 ,
+            "Name": "Fresa Condensada",
+            "text": "Fresas frescas y naturales revueltas con leche condensada artesanal, el relleno de este queque es de fresa, una dulzura refrescantemente dulce al paladar.",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/premium/fresacondensada.jpg"
+        },
+        {   
+            "id":11 ,
+            "Name": "Selva Negra",
+            "text": "Esta delicia se puede rellenar con cereza o con fresa, si lo prefiere, se puede humedecer con ron y las capas se pegan con nuestro lustre de chocolate. La pasta del queque es esponjosa de chocolate y se puede decorar con más cerezas/fresas, con una imagen o con colochos de chocolate.",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/premium/Selvanegra.jpg"
+        },
+        {   
+            "id":12 ,
+            "Name": "Muerte Lenta",
+            "text": "El queque favorito del Pastelero, pasta de chocolate, relleno con su crema de mantequilla artesanal de chocolate, recubierto de chocolate de leche, su propio ganadge, decorado con colochos de chocolate blanco y fresas bañadas en chocolate oscuro o blanco.",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/premium/Muertelenta.jpg"
+        }
+    ]
+}
