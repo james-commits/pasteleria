@@ -5,14 +5,14 @@ if (isset($_FILES['image']) && isset($_POST['name'])) {
 
   // Verifica si la imagen se subió correctamente
   if ($image['error'] === UPLOAD_ERR_OK) {
-    $directory = '/path/to/image/directory';
+    $directory = 'img/primeraComunion/';
     $imagePath = $directory . '/' . $image['name'];
     move_uploaded_file($image['tmp_name'], $imagePath);
 
     // Agrega el objeto al archivo JSON
     $data = [];
-    if (file_exists('data.json')) {
-      $json = file_get_contents('data.json');
+    if (file_exists('../js/data.json')) {
+      $json = file_get_contents('../js/data.json');
       $data = json_decode($json, true);
     }
     $data[] = [
