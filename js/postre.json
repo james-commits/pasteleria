@@ -1,0 +1,81 @@
+{
+    "clasica": [
+        {      
+            "id":1 ,
+            "Name": "Frutas Tropicales",
+            "text": "La pasta es un Biscuit Bijere (queque esponja, Sponge Cake) muy, muy humedecido en leches. Se rellena con dos cortes de frutas tropicales (piña, papaya, banano, melón, fresa, uva, kiwi y melocotón) con licor o sin licor a según tu preferencia. Se puede decorar con una imagen, flores o frutas.",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/postre/FrutasTropicales.jpg"
+        },
+        {   
+            "id":2 ,
+            "Name": "Piña Colada",
+            "text": "La pasta es un Biscuit Bijere (queque esponja o Sponge Cake, sin ninguna relación con Bob esponja ni Patricio) muy, muy humedecido en leches. Se rellena con dos cortes de piña colada y coco. Con licor o sin licor a según tu preferencia, un postre excelente para tu cumpleaños, almuerzo o cena. Se puede decorar con una imagen, flores o frutas. ",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/postre/PinaColada.jpg"
+        },
+        {   
+            "id":3 ,
+            "Name": "Chocolatoso",
+            "text": "La pasta es un Biscuit Bijere (queque esponja, Sponge cake) extra humedecido en leches. Pasta de chocolate liviano rellena con dos cortes de mi cremita suave artesanal y relleno de chocolate oscuro rallado, con licor o sin licor, a según tu preferencia, convierte a este un postre excelente para un cumpleaños, para después de almuerzo o después de la cena, para endulzar el paladar. Se puede decorar con una imagen, flores o frutas. ",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/postre/chocolatoso.jpg"
+        },
+        {   
+            "id":4 ,
+            "Name": "Pistacho",
+            "text": "La pasta es un Biscuit Bijere (queque esponja, Sponge Cake) muy humedecido en una combinación única de leches. Se rellena con dos cortes de mi cremita de pistacho suave artesanal y relleno de chocolate blanco rallado con licor o sin licor a según tu preferencia hace de este un postre excelente para después de almuerzo o cena. Se puede decorar con una imagen, flores o frutas.",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/postre/pistacho.jpg"
+        },
+        {   
+            "id":5 ,
+            "Name": "Churchill",
+            "text": "La pasta es un Biscuit Bijere (queque esponja, Sponge Cake) , muy humedecido en leches, se rellena con leche condensada liquida, leche pinito, además, se le decora con su lustre de color rosado/rojizo. Es un pastel perfecto para sentir el sabor del puerto.",
+            "cantidad": "DDe 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/postre/churchill.jpg"
+        },
+        {   
+            "id":6 ,
+            "Name": "Fresa Fabulosa",
+            "text": "Fresas frescas naturales combinadas con mermeladas de fresa son el relleno y la decoración de este postre, humedecido en una combinación de leches artesanales con un toque de leche condensada. Decorado con solo fresas o con una variedad de frutas es para usted decidir.",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/postre/fresafabulosa.jpg"
+        },
+        {   
+            "id":7 ,
+            "Name": "Torta Chilena Nutella y Caramelo",
+            "text": "6 galletitas delgaditas de mantequilla intercaladas con una capita de manjar de dulce de leche (con un toque de almendra si así lo desea) alternativamente y para ser creativos se puede rellenar con capas alternas de nutella o mitad y mitad hacen de este un favorito de todos. Se decora con frutas, flores o la imagen de su preferencia. Se requieren 3 días de anticipación para su elaboración.",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/postre/tortachilena.jpg"
+        },
+        {   
+            "id":8 ,
+            "Name": "Tiramizú",
+            "text": "Con o sin licor a su preferencia, se le puede añadir chocolate, nutella, suspiritos triturados o trazos de caramelo. Se requieren de 3 días anticipados para su elaboración.",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/postre/tiramizu.jpg"
+        },
+        {   
+            "id":9 ,
+            "Name": "Postre Blueberry",
+            "text": "La pasta es un Biscuit Bijere muy humedecido en una combinación artesanal de leches. Se rellena con mermelada y frutos naturales de blueberry, con trazos de leche condensada. Decorado tradicionalmente de color morado pero igualmente se puede decorar de otros colores.",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/postre/blueberry.jpg"
+        },
+        {   
+            "id":10 ,
+            "Name": "Melocotón Maravilloso",
+            "text": "Maravillosos melocotones a montones, es el relleno y la decoración de este postre, humedecido en una combinación de leches artesanales. Decorado con solo melocotones o con una variedad de frutas lo que desees elegir.",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/postre/melocoton.jpg"
+        },
+        {   
+            "id":11 ,
+            "Name": "Choco Menta",
+            "text": "La pasta es un Biscuit Bijere de chocolate (queque esponja, Sponge Cake) muy humedecido en leches, relleno con una capita de crema de menta con puntitos veteados sorpresivos de ganache, con licor o sin licor. Se puede decorar con una imagen, flores o frutas.",
+            "cantidad": "De 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
+            "img": "./img/postre/menta.jpg"
+        }
+    ]
+}

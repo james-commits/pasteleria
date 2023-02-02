@@ -29,13 +29,6 @@
             "img": "./img/premium/DeliriodeCaramelo.png"
         },
         {   
-            "id":5 ,
-            "Name": "Choco Fresa",
-            "text": "Un queque suave y chocolatoso veteado con trazos de fresa relleno de mi preparación artesanal: ganadge con fresa, decorado tradicionalmente con chocolate y fresas, pero igualmente puede decorase con flores o su imagen preferida..",
-            "cantidad": "DDe 4-5 personas ¢6.000 / De 10-12 personas ¢15.000 / De 16-18 personas ¢17.500 / De 20-22 personas ¢21.000",
-            "img": "./img/clasica/chocoFresa.jpg"
-        },
-        {   
             "id":6 ,
             "Name": "Choco Caramelo",
             "text": "Pasta suave de chocolate relleno con dos capas de dulce de leche y recubierto de lustre chocolatoso del Pastelero. Un tradicional para los amantes del chocolate.",
