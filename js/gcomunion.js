@@ -7,19 +7,19 @@ function myFunction() {
     )
     .then(jsondata => {
         myData = jsondata;
-        console.log(myData.comunion[0].name);
+        console.log(myData[0].name);
         html = "";
-        for (let i = 0; i < myData.comunion.length; i++) {
+        for (let i = 0; i < myData.length; i++) {
             html += `
             <div class="col-md-4 col-6 cake bakery bread">
             <div class="portfolio_item">
                 <div class="portfolio_img">
-                    <a class="light" href="${myData.comunion[i].img}">
-                        <img class="img-fluid" src="${myData.comunion[i].img}" alt="">
+                    <a class="light" href="${myData[i].img}">
+                        <img class="img-fluid" src="${myData[i].img}" alt="">
                     </a>
                 </div>
                 <div class="portfolio_text">
-                    <a href="#"><h4>${myData.comunion[i].name}</h4></a>
+                    <a href="#"><h4>${myData[i].name}</h4></a>
                 </div>
             </div>
         </div>`;
